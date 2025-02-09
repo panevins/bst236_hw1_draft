@@ -1,6 +1,4 @@
 
-## Pascale's test for their website
+# Pascale's Coding Blog
 
-## Here is another heading
-
-### here is a subheading
+This is my coding blog site created for BST 236.
